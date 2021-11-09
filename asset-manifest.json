@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/git@github.com:Onosgb/monster-rolodex/static/css/main.957761ac.chunk.css",
+    "main.js": "/git@github.com:Onosgb/monster-rolodex/static/js/main.21f7a034.chunk.js",
+    "main.js.map": "/git@github.com:Onosgb/monster-rolodex/static/js/main.21f7a034.chunk.js.map",
+    "runtime-main.js": "/git@github.com:Onosgb/monster-rolodex/static/js/runtime-main.62744841.js",
+    "runtime-main.js.map": "/git@github.com:Onosgb/monster-rolodex/static/js/runtime-main.62744841.js.map",
+    "static/js/2.93f9bc65.chunk.js": "/git@github.com:Onosgb/monster-rolodex/static/js/2.93f9bc65.chunk.js",
+    "static/js/2.93f9bc65.chunk.js.map": "/git@github.com:Onosgb/monster-rolodex/static/js/2.93f9bc65.chunk.js.map",
+    "static/js/3.c0ee6750.chunk.js": "/git@github.com:Onosgb/monster-rolodex/static/js/3.c0ee6750.chunk.js",
+    "static/js/3.c0ee6750.chunk.js.map": "/git@github.com:Onosgb/monster-rolodex/static/js/3.c0ee6750.chunk.js.map",
+    "index.html": "/git@github.com:Onosgb/monster-rolodex/index.html",
+    "static/css/main.957761ac.chunk.css.map": "/git@github.com:Onosgb/monster-rolodex/static/css/main.957761ac.chunk.css.map",
+    "static/js/2.93f9bc65.chunk.js.LICENSE.txt": "/git@github.com:Onosgb/monster-rolodex/static/js/2.93f9bc65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62744841.js",
+    "static/js/2.93f9bc65.chunk.js",
+    "static/css/main.957761ac.chunk.css",
+    "static/js/main.21f7a034.chunk.js"
+  ]
+}
